@@ -1,0 +1,38 @@
+#
+ALU_4_Bit buffer_gen symbol
+I19
+I12
+I13
+I14
+I18
+#
+ALU_4_Bit Incrementor_block symbol
+I3
+#
+ALU_4_Bit RCA_block1 symbol
+I4
+#
+ALU_4_Bit RCA_block2 symbol
+I5
+#ISCELL
+basic iopin symbolr
+PIN1
+PIN0
+#ISCELL
+basic ipin symbol
+PIN10
+PIN9
+PIN8
+PIN7
+PIN6
+PIN5
+PIN4
+PIN3
+PIN2
+#ISCELL
+basic opin symbol
+PIN14
+PIN15
+PIN13
+PIN12
+PIN11

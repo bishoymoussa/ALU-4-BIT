@@ -1,0 +1,26 @@
+#
+ALU_4_Bit AND_gen symbol
+I3
+I2
+I1
+I0
+#ISCELL
+basic ipin symbol
+PIN7
+PIN6
+PIN5
+PIN3
+PIN4
+PIN2
+PIN1
+PIN0
+#ISCELL
+basic opin symbol
+PIN11
+PIN10
+PIN9
+PIN8
+#ISCELL
+basic iopin symbolr
+PIN13
+PIN12

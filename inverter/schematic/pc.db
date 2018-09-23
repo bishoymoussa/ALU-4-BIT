@@ -1,0 +1,13 @@
+#
+analogLib vsource symbol
+V0
+vdd
+#
+tsmc18rf pmos2v symbol
+M1
+#
+tsmc18rf nmos2v symbol
+M0
+#ISCELL
+analogLib gnd symbol
+I0

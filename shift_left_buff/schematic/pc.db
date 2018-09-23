@@ -1,0 +1,29 @@
+#
+ALU_4_Bit buffer_gen symbol
+I4
+I3
+I2
+I1
+#
+ALU_4_Bit shift_left symbol
+I0
+#ISCELL
+basic ipin symbol
+PIN7
+PIN6
+PIN5
+PIN4
+PIN3
+PIN2
+PIN1
+PIN0
+#ISCELL
+basic opin symbol
+PIN11
+PIN10
+PIN9
+PIN8
+#ISCELL
+basic iopin symbolr
+PIN13
+PIN12

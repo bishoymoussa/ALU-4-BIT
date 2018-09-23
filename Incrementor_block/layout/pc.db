@@ -1,0 +1,44 @@
+#
+ALU_4_Bit OR_gen layout
+|I2
+#
+ALU_4_Bit NAND_gen layout
+|I3|I2
+|I4|I2
+#
+ALU_4_Bit inverter_gen layout
+|I3|I1
+|I4|I1
+#
+ALU_4_Bit XOR_gen layout
+|I0
+|I1
+#ISCELL
+tsmc18 M2_M1 symbolic
+I37
+I36
+I35
+I34
+I33
+I32
+I31
+I30
+I29
+I28
+I27
+I22
+I21
+#ISCELL
+tsmc18 M3_M2 symbolic
+I26
+I23
+#ISCELL
+tsmc18 M4_M3 symbolic
+I25
+I24
+#ISCELL
+tsmc18 M1_POLY1 symbolic
+I41
+I40
+I39
+I38

@@ -1,0 +1,19 @@
+#
+tsmc18 nmos2v symbol
+M1
+M0
+#
+tsmc18 pmos2v symbol
+M3
+M2
+#ISCELL
+basic ipin symbol
+PIN1
+PIN0
+#ISCELL
+basic opin symbol
+PIN2
+#ISCELL
+basic iopin symbolr
+PIN4
+PIN3

@@ -1,0 +1,18 @@
+#
+ALU_4_Bit mux2_1_1_bit layout
+|I0
+|I1
+|I2
+|I3
+#ISCELL
+tsmc18 M2_M1 symbolic
+I15
+I12
+I11
+I8
+#ISCELL
+tsmc18 M3_M2 symbolic
+I14
+I13
+I10
+I9

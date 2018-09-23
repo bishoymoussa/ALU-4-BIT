@@ -1,0 +1,44 @@
+#
+ALU_4_Bit buffer_gen symbol
+I4
+I5
+I6
+I7
+#
+tsmc18 nmos2v symbol
+M15
+M14
+M13
+M12
+M11
+M10
+M9
+M8
+M7
+M6
+M5
+M4
+M3
+M2
+M1
+M0
+#ISCELL
+basic ipin symbol
+PIN11
+PIN10
+PIN9
+PIN8
+PIN0
+PIN1
+PIN2
+PIN3
+#ISCELL
+basic iopin symbolr
+PIN13
+PIN12
+#ISCELL
+basic opin symbol
+PIN5
+PIN6
+PIN7
+PIN4

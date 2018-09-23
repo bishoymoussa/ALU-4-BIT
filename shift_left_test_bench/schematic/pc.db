@@ -1,0 +1,26 @@
+#
+ALU_4_Bit buffer_gen symbol
+I5
+I4
+I3
+I2
+#
+analogLib cap symbol
+C3
+C2
+C1
+C0
+#
+analogLib vsource symbol
+V5
+V4
+V3
+V2
+V1
+V0
+#
+ALU_4_Bit shift_left symbol
+I0
+#ISCELL
+analogLib gnd symbol
+I1

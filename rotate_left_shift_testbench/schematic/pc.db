@@ -1,0 +1,20 @@
+#
+analogLib cap symbol
+C0
+C1
+C2
+C3
+#
+analogLib vsource symbol
+V3
+V2
+V1
+V0
+vdd
+#
+ALU_4_Bit rotate_left_shift symbol
+I0
+#ISCELL
+analogLib gnd symbol
+I2
+I1

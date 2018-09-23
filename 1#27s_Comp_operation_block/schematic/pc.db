@@ -1,0 +1,22 @@
+#
+ALU_4_Bit inverter_gen symbol
+I3
+I2
+I0
+I1
+#ISCELL
+basic iopin symbolr
+PIN12
+PIN13
+#ISCELL
+basic opin symbol
+PIN8
+PIN9
+PIN10
+PIN11
+#ISCELL
+basic ipin symbol
+PIN1
+PIN2
+PIN5
+PIN6

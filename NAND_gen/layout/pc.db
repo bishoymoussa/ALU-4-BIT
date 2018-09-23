@@ -1,0 +1,16 @@
+#
+tsmc18 nmos2v layout
+|M0
+|M1
+#
+tsmc18 pmos2v layout
+|M2
+|M3
+#ISCELL
+tsmc18 M1_POLY1 symbolic
+I5
+I4
+#ISCELL
+tsmc18 M2_M1 symbolic
+I7
+I6

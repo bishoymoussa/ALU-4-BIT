@@ -1,0 +1,20 @@
+#
+ALU_4_Bit FA symbol
+I0
+I1
+#ISCELL
+basic opin symbol
+PIN7
+PIN8
+PIN9
+#ISCELL
+basic ipin symbol
+PIN2
+PIN3
+PIN4
+PIN5
+PIN6
+#ISCELL
+basic iopin symbolr
+PIN0
+PIN1

@@ -1,0 +1,58 @@
+#
+ALU_4_Bit inverter_gen layout
+|I4
+|I5
+|I6
+|I7
+#
+ALU_4_Bit XOR_gen layout
+|I3
+#
+ALU_4_Bit mux2_1_4_bit layout
+|I1
+|I2
+#
+ALU_4_Bit CIA layout
+|I0
+#ISCELL
+tsmc18 M2_M1 symbolic
+I71
+I70
+I69
+I68
+I62
+I61
+I60
+I58
+I57
+I56
+I52
+I51
+I49
+I44
+I41
+I40
+I39
+I36
+#ISCELL
+tsmc18 M3_M2 symbolic
+I65
+I59
+I55
+I54
+I53
+I50
+I43
+I42
+I38
+I37
+#ISCELL
+tsmc18 M1_POLY1 symbolic
+I67
+I66
+I64
+I63
+I48
+I47
+I46
+I45

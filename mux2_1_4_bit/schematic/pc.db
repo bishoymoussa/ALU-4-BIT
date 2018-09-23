@@ -1,0 +1,27 @@
+#
+ALU_4_Bit mux2_1_1_bit symbol
+I3
+I2
+I1
+I0
+#ISCELL
+basic ipin symbol
+PIN14
+PIN7
+PIN6
+PIN5
+PIN4
+PIN3
+PIN2
+PIN1
+PIN0
+#ISCELL
+basic opin symbol
+PIN12
+PIN11
+PIN10
+PIN13
+#ISCELL
+basic iopin symbolr
+PIN9
+PIN8

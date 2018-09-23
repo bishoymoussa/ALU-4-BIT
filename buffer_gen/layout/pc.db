@@ -1,0 +1,7 @@
+#
+ALU_4_Bit inverter_gen layout
+|I0
+|I1
+#ISCELL
+tsmc18 M1_POLY1 symbolic
+I1

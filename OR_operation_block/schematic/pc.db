@@ -1,0 +1,26 @@
+#
+ALU_4_Bit OR_gen symbol
+I0
+I1
+I2
+I3
+#ISCELL
+basic iopin symbolr
+PIN12
+PIN13
+#ISCELL
+basic opin symbol
+PIN8
+PIN9
+PIN10
+PIN11
+#ISCELL
+basic ipin symbol
+PIN0
+PIN1
+PIN2
+PIN3
+PIN4
+PIN5
+PIN6
+PIN7

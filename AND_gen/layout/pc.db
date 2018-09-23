@@ -1,0 +1,11 @@
+#
+ALU_4_Bit NAND_gen layout
+|I2
+#
+ALU_4_Bit inverter_gen layout
+|I1
+#ISCELL
+tsmc18 M2_M1 symbolic
+I5
+I4
+I3

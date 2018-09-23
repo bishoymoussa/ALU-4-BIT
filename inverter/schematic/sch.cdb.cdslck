@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      root
+HostName                       192.168.96.128
+ProcessIdentifier              4747
+ProcessCreationTime_UTC        1479336811
+ProcessCreationTime_Readable   Thu Nov 17 00:53:31 2016 EET
+AppIdentifier                  /usr/local/cdstree/tools/dfII/bin/icfb.exe
+OSType                         lnx86
+ReasonForPlacingEditLock       XXsave write lock
+FilePathUsedToEditLock         /home/sami/ALU_4_bit/inverter/schematic/sch.cdb
+TimeEditLocked                 Thu Nov 17 01:05:02 2016 EET

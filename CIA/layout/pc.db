@@ -1,0 +1,54 @@
+#
+ALU_4_Bit buffer_gen layout
+|I19
+|I12
+|I13
+|I14
+|I18
+#
+ALU_4_Bit Incrementor_block layout
+|I3
+#
+ALU_4_Bit RCA_block1 layout
+|I4
+#
+ALU_4_Bit RCA_block2 layout
+|I5
+#ISCELL
+tsmc18 M2_M1 symbolic
+I63
+I59
+I57
+I56
+I55
+I54
+I53
+I52
+I51
+I50
+I49
+I48
+I47
+I46
+I43
+I42
+I41
+I34
+I33
+I32
+#ISCELL
+tsmc18 M1_POLY1 symbolic
+I61
+I60
+I58
+I40
+I39
+I38
+I37
+I36
+I35
+#ISCELL
+tsmc18 M3_M2 symbolic
+I62
+I45
+I44

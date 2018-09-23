@@ -1,0 +1,39 @@
+#
+analogLib cap symbol
+C4
+C0
+C2
+C1
+C3
+#
+ALU_4_bit CIA symbol
+I27
+#
+analogLib vpulse symbol
+V0
+V9
+V10
+V11
+V12
+V13
+V14
+V15
+#
+analogLib vsource symbol
+V18
+#ISCELL
+analogLib gnd symbol
+I38
+I39
+I40
+I41
+I42
+I28
+I29
+I23
+I25
+I26
+I43
+I44
+I30
+I21

@@ -1,0 +1,40 @@
+#
+ALU_4_Bit inverter_gen symbol
+I7
+I6
+I5
+I4
+#
+ALU_4_Bit XOR_gen symbol
+I3
+#
+ALU_4_Bit mux2_1_4_bit symbol
+I2
+I1
+#
+ALU_4_Bit CIA symbol
+I0
+#ISCELL
+basic ipin symbol
+PIN12
+PIN11
+PIN10
+PIN7
+PIN6
+PIN5
+PIN4
+PIN3
+PIN2
+PIN1
+PIN0
+#ISCELL
+basic iopin symbolr
+PIN9
+PIN8
+#ISCELL
+basic opin symbol
+PIN17
+PIN16
+PIN15
+PIN14
+PIN13

@@ -1,0 +1,49 @@
+#
+ALU_4_Bit Logic_Unit symbol
+I12
+#
+ALU_4_Bit Comparator symbol
+I10
+#
+ALU_4_Bit Decoder_2to4 symbol
+I9
+#
+ALU_4_Bit Adder_block symbol
+I8
+#
+ALU_4_Bit shift_left_buff symbol
+I5
+#
+ALU_4_Bit rotate_left_shift symbol
+I4
+#
+ALU_4_Bit mux2_1_4_bit symbol
+I3
+#
+ALU_4_Bit mux4_1_4_bit symbol
+I13
+I1
+#ISCELL
+basic ipin symbol
+PIN12
+PIN11
+PIN10
+PIN9
+PIN8
+PIN7
+PIN0
+PIN5
+PIN3
+PIN4
+PIN2
+PIN1
+PIN6
+#ISCELL
+basic iopin symbolr
+PIN19
+PIN18
+PIN17
+PIN16
+PIN13
+PIN14
+PIN15

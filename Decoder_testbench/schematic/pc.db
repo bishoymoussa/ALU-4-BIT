@@ -1,0 +1,23 @@
+#
+analogLib vdc symbol
+V3
+V1
+V0
+#
+analogLib cap symbol
+C3
+C2
+C1
+C0
+#
+ALU_4_bit Decoder_2to4 symbol
+I0
+#ISCELL
+analogLib gnd symbol
+I7
+I6
+I5
+I4
+I3
+I2
+I1

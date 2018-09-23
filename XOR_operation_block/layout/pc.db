@@ -1,0 +1,15 @@
+#
+ALU_4_Bit XOR_gen layout
+|I3
+|I2
+|I1
+|I0
+#ISCELL
+tsmc18 M2_M1 symbolic
+I9
+I8
+I7
+I5
+#ISCELL
+tsmc18 M1_POLY1 symbolic
+I6

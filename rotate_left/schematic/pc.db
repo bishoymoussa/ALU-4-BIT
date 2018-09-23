@@ -1,0 +1,49 @@
+#
+analogLib vsource symbol
+vdd
+vin
+V0
+V1
+V2
+#
+tsmc18rf nmos2v symbol
+M15
+M14
+M13
+M12
+M11
+M10
+M9
+M8
+M7
+M6
+M5
+M4
+M3
+M2
+M1
+M0
+#ISCELL
+basic ipin symbol
+PIN11
+PIN10
+PIN9
+PIN8
+PIN3
+PIN2
+PIN1
+PIN0
+#ISCELL
+basic opin symbol
+PIN7
+PIN6
+PIN5
+PIN4
+#ISCELL
+analogLib gnd symbol
+I3
+I1
+I0
+I5
+I2
+I4

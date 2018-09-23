@@ -1,0 +1,22 @@
+#
+ALU_4_Bit NAND_gen symbol
+I4
+I3
+I2
+#
+ALU_4_Bit XOR_gen symbol
+I1
+I0
+#ISCELL
+basic ipin symbol
+PIN2
+PIN1
+PIN0
+#ISCELL
+basic iopin symbolr
+PIN4
+PIN3
+#ISCELL
+basic opin symbol
+PIN6
+PIN5

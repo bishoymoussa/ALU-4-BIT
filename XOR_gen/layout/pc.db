@@ -1,0 +1,30 @@
+#
+ALU_4_Bit inverter_gen layout
+|I5
+#
+tsmc18 nmos2v layout
+|M1
+|M2
+#
+tsmc18 pmos2v layout
+|M0
+|M3
+#ISCELL
+tsmc18 M2_M1 symbolic
+I29
+I28
+I27
+I26
+I23
+I22
+I21
+I19
+I16
+I15
+#ISCELL
+tsmc18 M1_POLY1 symbolic
+I25
+I24
+I20
+I18
+I17

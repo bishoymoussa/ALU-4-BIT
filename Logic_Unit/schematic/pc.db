@@ -1,0 +1,44 @@
+#
+ALU_4_Bit AND_operation_block symbol
+I0
+#
+ALU_4_Bit OR_operation_block symbol
+I1
+#
+ALU_4_Bit XOR_operation_block symbol
+I2
+#
+ALU_4_Bit 1's_Comp_operation_block symbol
+I3
+#ISCELL
+basic iopin symbolr
+PIN1
+PIN0
+#ISCELL
+basic ipin symbol
+PIN9
+PIN8
+PIN7
+PIN6
+PIN5
+PIN4
+PIN3
+PIN2
+#ISCELL
+basic opin symbol
+PIN25
+PIN24
+PIN23
+PIN22
+PIN21
+PIN20
+PIN19
+PIN18
+PIN17
+PIN16
+PIN15
+PIN14
+PIN13
+PIN12
+PIN11
+PIN10

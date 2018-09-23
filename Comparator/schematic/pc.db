@@ -1,0 +1,29 @@
+#
+ALU_4_Bit NOR_gen symbol
+I4
+#
+ALU_4_Bit inverter_gen symbol
+I7
+I6
+#
+ALU_4_Bit OR_gen symbol
+I1
+I5
+I0
+#ISCELL
+basic ipin symbol
+PIN4
+PIN3
+PIN2
+PIN1
+PIN0
+#ISCELL
+basic opin symbol
+PIN8
+PIN7
+PIN6
+PIN5
+#ISCELL
+basic iopin symbolr
+PIN10
+PIN9

@@ -1,0 +1,22 @@
+#
+ALU_4_Bit inverter_gen symbol
+I5
+#
+tsmc18 nmos2v symbol
+M1
+M2
+#
+tsmc18 pmos2v symbol
+M0
+M3
+#ISCELL
+basic ipin symbol
+PIN1
+PIN0
+#ISCELL
+basic iopin symbolr
+PIN3
+PIN2
+#ISCELL
+basic opin symbol
+PIN4

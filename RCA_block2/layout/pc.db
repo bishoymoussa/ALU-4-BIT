@@ -1,0 +1,14 @@
+#
+ALU_4_Bit FA layout
+|I1
+|I0
+#ISCELL
+tsmc18 M1_POLY1 symbolic
+I23
+I20
+I19
+I18
+#ISCELL
+tsmc18 M3_M2 symbolic
+I22
+I21

@@ -1,0 +1,16 @@
+#
+ALU_4_bit XOR_gen symbol
+I49
+#
+analogLib cap symbol
+C0
+#
+analogLib vpulse symbol
+V3
+V0
+#
+analogLib vdc symbol
+V2
+#ISCELL
+analogLib gnd symbol
+I1
